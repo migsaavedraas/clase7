@@ -9,7 +9,11 @@
 }
 
 .inputLogin {
-    margin-bottom: 20px;
+    width: 300px; /* Ancho deseado del formulario */
+    margin: 50px auto; /* Centrar horizontalmente */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
 }
 
 .input {
